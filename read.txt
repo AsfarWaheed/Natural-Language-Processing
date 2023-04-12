@@ -1,0 +1,6 @@
+The project is about text classification using CNN Model.
+First we load the data set using the pandas dataframe.
+pre process the data and convert it into execting form.
+the we create a model based on Convolusion neural networks.
+It fully demonstrates how to use the number of layers their weights and biases, epochs and other parameters to find the required output.
+The model gave good accuracy and we can further change the parameters according to the problems needs.
